@@ -1,0 +1,7 @@
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\bin\Debug\01_GitGiris.exe.config
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\bin\Debug\01_GitGiris.exe
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\bin\Debug\01_GitGiris.pdb
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\obj\Debug\01_GitGiris.csprojAssemblyReference.cache
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\obj\Debug\01_GitGiris.csproj.CoreCompileInputs.cache
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\obj\Debug\01_GitGiris.exe
+C:\Projects\Github\GitDeneme\GitDenemeSln\01_GitGiris\obj\Debug\01_GitGiris.pdb
