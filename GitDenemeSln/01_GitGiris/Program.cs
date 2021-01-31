@@ -11,6 +11,7 @@ namespace _01_GitGiris
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Github");
+            Console.WriteLine("Yeni Satır");
 
             Console.ReadKey();
         }
