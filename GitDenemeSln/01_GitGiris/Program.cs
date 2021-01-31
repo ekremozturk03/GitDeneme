@@ -13,6 +13,8 @@ namespace _01_GitGiris
             Console.WriteLine("Hello Github");
             Console.WriteLine("Yeni Satır");
 
+            Console.WriteLine("1000 nolu iş için gerekli geliştirmeler yapıldı...");
+
             Console.ReadKey();
         }
     }
